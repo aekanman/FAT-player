@@ -6,3 +6,6 @@ stored on the SD card and would be read and sent over to the speaker in conjunct
 different play modes specified by the user of the system. The goal of the project is also to gain an
 understanding of reading from a FAT file system and parsing the data to properly stream the data
 to the speaker.
+
+## License
+MIT © [Atakan Efe Kanman](https://atakanefekanman.com)
