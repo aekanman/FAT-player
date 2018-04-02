@@ -8,4 +8,4 @@ understanding of reading from a FAT file system and parsing the data to properly
 to the speaker.
 
 ## License
-MIT © [Atakan Efe Kanman](https://atakanefekanman.com)
+MIT © [Atakan Efe Kanman](http://atakanefekanman.com)
